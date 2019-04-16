@@ -2,7 +2,7 @@
 
 Automatic query defragmentation based on React trees.
 
-[![Build status](https://travis-ci.org/lucasconstantino/react-apollo-defragment.svg?branch=master)](https://travis-ci.org/lucasconstantino/react-apollo-defragment)
+[![Build status](https://travis-ci.org/lucasconstantino/react-apollo-defragment.svg?branch=master)](https://travis-ci.org/lucasconstantino/react-apollo-defragment) [![Greenkeeper badge](https://badges.greenkeeper.io/lucasconstantino/react-apollo-defragment.svg)](https://greenkeeper.io/)
 
 :warning: **This is experimental software**, and though there are plenty of unit tests you should probably avoid using on production code
 
